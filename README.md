@@ -2,6 +2,8 @@
 
 Мобильное приложение "Пинг-Понг" на Flutter<br>
 
+(https://github.com/sergeyvkl/lutter-ping-pong/assets/images/computer_paddle.png)
+
 Особенности приложения:<br>
 
 Три режима игры:<br>
