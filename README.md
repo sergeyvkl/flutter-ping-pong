@@ -2,7 +2,7 @@
 
 Мобильное приложение "Пинг-Понг" на Flutter<br>
 
-(https://github.com/sergeyvkl/lutter-ping-pong/assets/images/computer_paddle.png)
+![Изображение](/assets/images/ball.png "Логотип Markdown")
 
 Особенности приложения:<br>
 
