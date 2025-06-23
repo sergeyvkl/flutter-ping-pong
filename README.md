@@ -2,6 +2,10 @@
 
 Мобильное приложение "Пинг-Понг" на Flutter<br>
 
+![Изображение](/assets/images/1.png)
+![Изображение](/assets/images/2.png)
+![Изображение](/assets/images/3.png)
+![Изображение](/assets/images/4.png)
 ![Изображение](/assets/images/5.png)
 
 Особенности приложения:<br>
