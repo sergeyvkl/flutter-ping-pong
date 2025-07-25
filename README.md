@@ -2,7 +2,7 @@
 
 Мобильное приложение "Пинг-Понг" на Flutter<br><br>
 
-
+![Изображение](/assets/images/ping_pong.png)<br>
 ![Изображение](/assets/images/1.png)
 ![Изображение](/assets/images/2.png)
 ![Изображение](/assets/images/3.png)
