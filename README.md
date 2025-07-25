@@ -6,7 +6,7 @@
 ![Изображение](/assets/images/1.png)
 ![Изображение](/assets/images/2.png)
 ![Изображение](/assets/images/3.png)
-![Изображение](/assets/images/4.png)<br>
+![Изображение](/assets/images/4.png)
 ![Изображение](/assets/images/6.png)
 
 Особенности приложения:<br>
