@@ -1,11 +1,12 @@
 # ping_pong
 
-Мобильное приложение "Пинг-Понг" на Flutter<br>
+Мобильное приложение "Пинг-Понг" на Flutter<br><br>
 
+![Изображение](/assets/images/ping_pong.png)<br>
 ![Изображение](/assets/images/1.png)
 ![Изображение](/assets/images/2.png)
 ![Изображение](/assets/images/3.png)
-![Изображение](/assets/images/4.png)
+![Изображение](/assets/images/4.png)<br>
 ![Изображение](/assets/images/6.png)
 
 Особенности приложения:<br>
